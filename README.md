@@ -19,6 +19,6 @@
 ![image](https://user-images.githubusercontent.com/123311632/213923864-ce7088a3-e8d0-43e4-accb-2e6971b8a79a.png)
 ![image](https://user-images.githubusercontent.com/123311632/213923897-4f201b8f-2f8e-4ab1-9187-e762e4569f2a.png)
 ![image](https://user-images.githubusercontent.com/123311632/213923918-5761a632-11de-434f-8d49-bbffc874dc70.png)
-<img src="https://img.shields.io/badge/Python - #3776AB?style=for-the-badge&logo=Python&logoColor=#3776AB"/>
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=#3776AB"/>
  
 
